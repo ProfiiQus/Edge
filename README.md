@@ -1,6 +1,6 @@
 ## Note
 
-This is a forked, slightly edited version of Ghost Edge Theme. I made a few changes for my friend, so that he can have the finest [personal page]((https://antoninkrejci.com/)) possible. This theme is also being automatically uploaded to the website via GitHub Actions.
+This is a forked, slightly edited version of Ghost Edge Theme. I made a few changes for my friend, so that he can have the finest [personal page](https://antoninkrejci.com/) possible. This theme is also being automatically uploaded to the website via GitHub Actions.
 
 # Edge
 
