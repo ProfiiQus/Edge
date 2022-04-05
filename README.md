@@ -1,8 +1,8 @@
-# Edge
-
 ## Note
 
-This slightly edited version of Ghost Edge theme is being deployed to [antoninkrejci.com](https://antoninkrejci.com/) to server as my friend's personal page.
+This is a forked, slightly edited version of Ghost Edge Theme. I made a few changes for my friend, so that he can have the finest [personal page]((https://antoninkrejci.com/)) possible. This theme is also being automatically uploaded to the website via GitHub Actions.
+
+# Edge
 
 A visually aesthetic theme designed for creative professionals. Showcase your works with minimal style and presentation. Completely free and fully responsive, released under the MIT license.
 
