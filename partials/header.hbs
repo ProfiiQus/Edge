@@ -29,24 +29,22 @@
         {{/if}}
         <div class="navbar-right">
             <div class="social">
-                {{#if @site.facebook}}
-                    <a class="social-item social-item-facebook"
+                <a class="social-item social-item-facebook"
                         href="{{facebook_url @site.facebook}}" target="_blank"
                         rel="noopener noreferrer" aria-label="Facebook">
                         FB
-                    </a>
-                {{/if}}
-                {{#if @site.twitter}}
-                    <a class="social-item social-item-twitter"
-                        href="{{twitter_url @site.twitter}}" target="_blank"
-                        rel="noopener noreferrer" aria-label="Twitter">
-                        TW
-                    </a>
-                {{/if}}
-                <a class="social-item social-item-rss"
-                    href="https://feedly.com/i/subscription/feed/{{@site.url}}/rss/"
-                    target="_blank" rel="noopener noreferrer" aria-label="RSS">
-                    RSS
+                </a>
+                <a class="social-item"
+                        style="color: #833AB4;"
+                        href="{{facebook_url @site.facebook}}" target="_blank"
+                        rel="noopener noreferrer" aria-label="Instagram">
+                        IG
+                </a>
+                <a class="social-item "
+                        style="color: #FF0000;"
+                        href="{{facebook_url @site.facebook}}" target="_blank"
+                        rel="noopener noreferrer" aria-label="YouTube">
+                        YT
                 </a>
             </div>
         </div>
